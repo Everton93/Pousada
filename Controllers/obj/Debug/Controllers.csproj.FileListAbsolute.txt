@@ -17,7 +17,9 @@ C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\Controller
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\EntityFramework.dll
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\Models.dll
+C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\System.Data.Common.dll
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\System.Data.Entity.dll
+C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\System.Data.SqlClient.dll
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\Models.pdb
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\EntityFramework.xml
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Controllers\bin\Debug\EntityFramework.SqlServer.xml

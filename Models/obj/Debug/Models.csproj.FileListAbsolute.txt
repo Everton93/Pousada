@@ -13,6 +13,8 @@ C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Models\bin\Debug\Models.dll
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Models\bin\Debug\Models.pdb
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Models\bin\Debug\EntityFramework.dll
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Models\bin\Debug\System.Data.Common.dll
+C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Models\bin\Debug\System.Data.SqlClient.dll
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Models\bin\Debug\EntityFramework.xml
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\evesi\Desktop\Projetos C#\PousadaSexta\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
